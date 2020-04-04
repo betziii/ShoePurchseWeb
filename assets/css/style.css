@@ -1,0 +1,39 @@
+
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:300,300italic,400,400italic,500,500italic,700,700italic);
+
+body{
+    font-family:'Ubuntu', sans-serif ;
+}
+.pd{
+    margin: 0px;
+    padding: 0px;
+}
+.gap{
+    padding: 1em;
+}
+.blue{
+    background-color: rgb(31, 38, 59);
+}
+
+.white{
+    color: white;
+}
+.grey{
+    color: gray;
+}
+.brightblue{
+    color: rgb(64, 128, 224);
+    
+}
+.col-md-8 {
+    text-align: left;
+}
+.but{
+    background-color: rgb(87, 183, 190);
+}
+hr{
+    margin-bottom: 7em;
+}
+#hrr{
+    margin-bottom: 2em;
+}
