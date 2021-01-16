@@ -8,14 +8,28 @@ body{
     margin: 0px;
     padding: 0px;
 }
+.right{
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
 .gap{
     padding: 1em;
 }
-.aboutgap{
+.formgap{
+    padding-left: 20px;
     padding-top: 4em;
+}
+.aboutgap{
+    padding: 4em 0em 0em 0em;
+    margin: 0px;
 }
 .blue{
     background-color: rgb(31, 38, 59);
+}
+.leng{
+    width: 200px;
 }
 
 .white{
