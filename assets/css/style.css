@@ -11,6 +11,9 @@ body{
 .gap{
     padding: 1em;
 }
+.aboutgap{
+    padding-top: 4em;
+}
 .blue{
     background-color: rgb(31, 38, 59);
 }
